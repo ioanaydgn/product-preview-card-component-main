@@ -66,14 +66,14 @@ p.pro-des{
     align-items: center;
 }
 
-p.currnet-price{
+.currnet-price{
     font-family:'Fraunces', serif;
     color: hsl(158,36%,37%);
     font-size: 25px;
     padding-right: 25px;
 }
 
-p.old-price{
+.old-price{
     color: hsl(228,12%,48%);
     text-decoration: line-through;
     margin-left: 20px;
